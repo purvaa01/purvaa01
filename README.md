@@ -1,4 +1,4 @@
-# Hi there, I'm Purva Wankhede 👋
+# Hi there, I'm Purva👋
 
 🌱 **Currently Learning:** DevOps fundamentals & Cloud Computing (Linux, Bash scripting, Python, AWS, Docker, Kubernetes, CI/CD).
 
