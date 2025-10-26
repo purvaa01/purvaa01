@@ -49,7 +49,7 @@
 ###
 
 <p align="left">
-<a href="www.linkedin.com/in/purvaw01" target="_blank">LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/purvaw01/" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/purvaa01" target="_blank">GitHub</a> | 
 <a href="mailto:purvaa462@gmail.com">Email</a>
 </p>
