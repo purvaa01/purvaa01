@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since the day I wrote my first Python script 🐍 <br>
-📚 I'm currently learning <b>CD, kubernatetes, Docker, and Git</b> while mastering <b>Linux, Shell scripting, and Python,CI, Testing</b>. <br>
+📚 I'm currently learning <b>CD, kubernetes, Docker, and Git</b> while mastering <b>Linux, Shell scripting, and Python, CI, Testing</b>. <br>
 🎯 Goals: To become a skilled <b>DevOps & Cloud Engineer</b> and build seamless automated workflows ☁️ <br>
 🎲 Fun fact: I read dark fantasy novels, listen to music depending on my mood, and I love breaking things (only to automate them again 😄)
 </p>
