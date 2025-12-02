@@ -25,7 +25,7 @@
 
 <p align="left">
 💻 <b>Languages:</b> Python, Shell Script <br>
-🖥️ <b>Tools:</b> Linux, Git, Linux, VS Code, GitHub Actions <br>
+🖥️ <b>Tools:</b> Linux, Git, VS Code, GitHub Actions, Jenkins <br>
 ☁️ <b>Learning Next:</b> AWS, Terraform, Kubernetes <br>
 </p>
 
