@@ -2,47 +2,24 @@
 
 ###
 
-<p align="left">My name is <b>Purva Wankhede</b> and I'm a <b>DevOps & Cloud enthusiast</b>, from <b>India</b>.</p>
+<p align="left">My name is <b>Purva Wankhede</b> and I'm a <b>DevOps & Cloud enthusiast</b>🚀, from <b>India</b>.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+I build, break, and automate systems that make software delivery smoother.
 
-###
+If something fails, I debug it, fix it, and make sure it doesn’t fail the same way twice.
 
-<p align="left">
-✨ Creating bugs since the day I wrote my first Python script 🐍 <br>
-📚 I'm currently learning <b>CD, kubernetes, Docker, and Git</b> while mastering <b>Linux, Shell scripting, and Python, CI, Testing</b>. <br>
-🎯 Goals: To become a skilled <b>DevOps & Cloud Engineer</b> and build seamless automated workflows ☁️ <br>
-🎲 Fun fact: I read dark fantasy novels, listen to music depending on my mood, and I love breaking things (only to automate them again 😄)
-</p>
+My current stack includes Linux, Git/GitHub, Jenkins, Shell & Python scripting, SonarQube, testing tools, and CI/CD fundamentals.
 
-###
+Most of my work revolves around pipelines, automation, and improving reliability.
 
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<p align="left">
-💻 <b>Languages:</b> Python, Shell Script <br>
-🖥️ <b>Tools:</b> Linux, Git, VS Code, GitHub Actions, Jenkins <br>
-☁️ <b>Learning Next:</b> AWS, Terraform, Kubernetes <br>
-</p>
-
-###
-
-<h2 align="left">Hobbies</h2>
-
-###
-
-<p align="left">
-📚 Reading fantasy novels <br>
-🎧 Listening to mood-based playlists <br>
-🎬 Watching story-driven series <br>
-⚙️ Experimenting with automation and tech tools <br>
-</p>
-
-###
+<h2 align="left">Fun Facts / Hobbies</h2>
+ 
+• Debugs better with music on than in silence 🎧   
+• Logs don’t scare me (most days)        
+• Professional sleeper 💤  
+• Powered by coffee ☕ 
 
 <h2 align="left">Let's Connect 🌐</h2>
 
