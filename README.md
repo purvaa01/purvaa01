@@ -1,27 +1,30 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-My name is <b>Purva Wankhede</b> and I'm a <b>DevOps & Cloud enthusiast</b> 🚀 from <b>India</b>.
+I'm <b>Purva,</b> a <b>DevOps & Cloud enthusiast</b> from <b>India</b>.
 </p>
 
 <p align="left">
-I enjoy building, breaking, and automating systems that make software delivery faster, safer, and more reliable.
-If something fails, I debug it, fix it, and make sure it doesn’t fail the same way twice.
+I enjoy building and automating systems that make software delivery faster, safer, and more reliable.
+If something breaks, I focus on understanding why it failed, fixing it, and making sure it doesn’t happen the same way again.
 </p>
 
 <p align="left">
-Currently, I'm focused on learning and building real-world DevOps projects — especially end-to-end CI/CD pipelines,
-cloud-native deployments, and automation workflows.
+Outside of tech, I enjoy reading, exploring new ideas, and sharing my learning journey on LinkedIn.
+I like staying consistent, learning step by step, and improving a little every day.
 </p>
 
 <h2 align="left">⚙️ Current Tech Stack</h2>
 
 <p align="left">
-<b>Core:</b> Linux, Git, GitHub, CI/CD Fundamentals<br>
-<b>Scripting:</b> Bash/Shell, Python<br>
-<b>DevOps Tools:</b> Jenkins, Docker, Kubernetes , GitHub Actions, SonarQube<br>
-<b>Automation & IaC:</b> Ansible (ongoing), Terraform <br>
-<b>Monitoring & Reliability:</b> Logging, troubleshooting, system debugging
+<b>DevOps & CI/CD:</b> Jenkins, GitHub Actions, CI/CD Pipelines<br>
+<b>Cloud:</b> AWS<br>
+<b>Infrastructure as Code:</b> Terraform<br>
+<b>Containers & Orchestration:</b> Docker, Kubernetes<br>
+<b>Monitoring & Observability:</b> Prometheus, Grafana<br>
+<b>Scripting & Programming:</b> Python, Bash<br>
+<b>Version Control:</b> Git, GitHub<br>
+<b>Operating Systems:</b> Linux, Windows
 </p>
 
 
