@@ -1,50 +1,62 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Purva 👋
 
-<p align="left">
-I'm <b>Purva,</b> a <b>DevOps & Cloud enthusiast</b> from <b>India</b>.
-</p>
+I'm a Computer Science graduate from India who enjoys building, automating, and continuously learning about DevOps and cloud technologies.
 
-<p align="left">
-I enjoy building and automating systems that make software delivery faster, safer, and more reliable.
-If something breaks, I focus on understanding why it failed, fixing it, and making sure it doesn’t happen the same way again.
-</p>
+I believe growth comes from consistency more than speed. I enjoy learning at my own pace, asking questions, experimenting without being afraid of mistakes, and improving a little every day. Whether it's a new technology, a good book, or a different perspective, I'm always looking for something that helps me grow.
 
-<p align="left">
-Outside of tech, I enjoy reading, exploring new ideas, and sharing my learning journey on LinkedIn.
-I like staying consistent, learning step by step, and improving a little every day.
-</p>
+---
 
-<h2 align="left">⚙️ Current Tech Stack</h2>
+## ⚙️ Tech Stack
 
-<p align="left">
-<b>DevOps & CI/CD:</b> Jenkins, GitHub Actions, CI/CD Pipelines<br>
-<b>Cloud:</b> AWS<br>
-<b>Infrastructure as Code:</b> Terraform<br>
-<b>Containers & Orchestration:</b> Docker, Kubernetes<br>
-<b>Monitoring & Observability:</b> Prometheus, Grafana<br>
-<b>Scripting & Programming:</b> Python, Bash<br>
-<b>Version Control:</b> Git, GitHub<br>
-<b>Operating Systems:</b> Linux, Windows
-</p>
+### ☁️ Cloud
+- AWS
 
+### 🚀 DevOps & CI/CD
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
 
-<h2 align="left">🎧 Fun Facts / Hobbies</h2>
+### 📦 Containers & Orchestration
+- Docker
+- Kubernetes
+- Helm
 
-<p align="left">
-• I debug better with music than in silence 🎧<br>
-• Professional sleeper 💤<br>
-• Powered by coffee ☕ <br>
-• Either finish a book in 2 days or 1 month - no middle ground.
-</p>
+### 🏗️ Infrastructure as Code
+- Terraform
+- Ansible
 
-<h2 align="left">🌐 Let's Connect</h2>
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
 
-<p align="left">
-<a href="https://www.linkedin.com/in/purvaw01/" target="_blank">LinkedIn</a> |
-<a href="https://github.com/purvaa01" target="_blank">GitHub</a> |
-<a href="mailto:purvaa462@gmail.com">Email</a>
-</p>
+### 💻 Programming & Scripting
+- Python
+- Bash
 
-<p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="50" />
-</p>
+### 🔧 Tools
+- Git
+- GitHub
+- Linux
+
+---
+
+## 🌿 What I'm Up To
+
+- 🚀 Exploring new tools and technologies
+- 📚 Reading more books than I buy (still working on it 😄)
+- 🎸 Learning the ukulele, one chord at a time
+- 🌱 Staying curious and learning something new every day
+
+---
+
+## 🌐 Let's Connect
+
+I'd love to connect with fellow learners, developers, and DevOps enthusiasts.
+
+- 💼 LinkedIn: www.linkedin.com/in/purvaw01
+- 📧 Email: purvaa462@gmail.com
+- 💻 GitHub: You're already here 😉
+
+---
+
+> *Always learning. Always building.*
